@@ -1,6 +1,5 @@
 # Retail sales prediction-Machine Learning Project-(Regression)
 
-### Introduction
 Welcome to my Machine Learning Regression project! This is a personal project where I aim to build a predictive model capable of forecasting the sales of Rossmann stores. The project is based on supervised machine learning, where historical data about 1115 stores, both operating and non-operating, will be utilized to train the model.
 
 ### Problem Statement

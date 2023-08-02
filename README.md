@@ -29,11 +29,12 @@ To build our predictive model, we first split the dataset into a training set (7
 Upon evaluating the different regression models, we found that the Random Forest Regression yielded the highest accuracy on the test dataset.
 
 ### Repository Contents
-rossmann_sales_prediction.ipynb: The Jupyter Notebook containing the Python code and step-by-step data analysis process.
-store_data.csv: One of the CSV datasets used in the analysis.
-sales_data.csv: The other CSV dataset used in the analysis.
-README.md: You are reading it right now! This file serves as the project's README to provide an overview.
-How to Use
+- rossmann_sales_prediction.ipynb: The Jupyter Notebook containing the Python code and step-by-step data analysis process.
+- store_data.csv: One of the CSV datasets used in the analysis.
+- sales_data.csv: The other CSV dataset used in the analysis.
+- README.md: You are reading it right now! This file serves as the project's README to provide an overview.
+
+### How to Use
 Feel free to explore the Jupyter Notebook (Retail_sales_ML_Submission_Template.ipynb) to understand the data analysis process, model building, and evaluation. The notebook contains detailed explanations and code for each step of the project.
 
 ### Conclusion
